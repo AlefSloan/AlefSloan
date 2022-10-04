@@ -29,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='20'/></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefSloan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefSloan&layout=compact&cache_seconds=14400)
 
 ### Other stuffs
 
@@ -40,7 +40,7 @@ Portfólio: (<b>WIP</b>)
 
 <em>Se você tem alguma sugestão ou dúvida <b>entre em contato comigo.</b> Será um prazer te ajudar 😊</em>
 
-[![Alef Sloan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlefSloan&count_private=true&show_icons=true&theme=radical)](https://github.com/AlefSloan)
+[![Alef Sloan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlefSloan&count_private=true&cache_seconds=14400&show_icons=true&theme=radical)](https://github.com/AlefSloan)
 
 ----
 
